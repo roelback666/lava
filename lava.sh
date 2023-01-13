@@ -1,4 +1,6 @@
+#
 # // Copyright (C) 2023 sxlmnwb Recoded By NodeX Capital
+#
 
 sleep 1
 
@@ -24,7 +26,7 @@ echo "export LAVA_GENESIS=${LAVA_GENESIS}" >> $HOME/.bash_profile
 echo "export LAVA_ADDRBOOK=${LAVA_ADDRBOOK}" >> $HOME/.bash_profile
 echo "export LAVA_DENOM=${LAVA_DENOM}" >> $HOME/.bash_profile
 echo "export LAVA_PORT=${LAVA_PORT}" >> $HOME/.bash_profile
-source $HOME/.bash_profilehttps://github.com/roelback666/lava/blob/main/lava.sh
+source $HOME/.bash_profile
 
 # Set Vars
 if [ ! $NODENAME ]; then
