@@ -1,5 +1,6 @@
 #
 # // Copyright (C) 2023 sxlmnwb Recoded By NodeX Capital
+#
 
 sleep 1
 
@@ -14,7 +15,6 @@ LAVA_GENESIS=https://snapshots.nodeist.net/t/lava/genesis.json
 LAVA_ADDRBOOK=https://snapshots.nodeist.net/t/lava/addrbook.json
 LAVA_DENOM=ulava
 LAVA_PORT=37
-
 echo "export LAVA_WALLET=${LAVA_WALLET}" >> $HOME/.bash_profile
 echo "export LAVA_BINARY=${LAVA_BINARY}" >> $HOME/.bash_profile
 echo "export LAVA_CHAIN_ID=${LAVA_CHAIN_ID}" >> $HOME/.bash_profile
