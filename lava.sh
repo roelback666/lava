@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # // Copyright (C) 2023 sxlmnwb Recoded By NodeX Capital
 #
 
