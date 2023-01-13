@@ -1,6 +1,4 @@
-#
-# // Copyright (C) 2023 sxlmnwb Recoded By NodeX Capital
-#
+#!/bin/bash
 
 sleep 1
 
